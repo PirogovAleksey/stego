@@ -19,7 +19,7 @@ def main():
             os.makedirs(directory)
 
     # Шлях до вхідного аудіофайлу
-    input_audio = "data/file_example_MP3_5MG.mp3"
+    input_audio = "data/input.wav"
 
     # Повідомлення для приховування
     secret_message = "New Message Test Test"
